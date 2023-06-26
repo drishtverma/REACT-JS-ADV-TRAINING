@@ -1,0 +1,6 @@
+topics we have discussed today
+
+React Basics -> Class Vs Functional Components, Events, State vs Props, Communication b/n the components
+
+tommorrow:-
+Router, Redux (hooks), Context API - MEssage bundlers
