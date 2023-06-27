@@ -1,5 +1,36 @@
 {
-  "student":[
-    
+  "student": [
+    {
+      "gender": "female",
+      "name": "Drishti verma",
+      "dob": "1997-06-07",
+      "address": "Delhi",
+      "number": "9876543210",
+      "id": 1
+    },
+    {
+      "gender": "male",
+      "name": "Ajay Verma",
+      "dob": "2006-06-23",
+      "address": "Noida",
+      "number": "8765654468",
+      "id": 2
+    },
+    {
+      "gender": "female",
+      "name": "Komal Gupta",
+      "dob": "1988-10-12",
+      "address": "Banglore",
+      "number": "7649203740",
+      "id": 3
+    },
+    {
+      "gender": "male",
+      "name": "Keshav verma",
+      "dob": "2023-06-08",
+      "address": "Khurja",
+      "number": "9831839293",
+      "id": 4
+    }
   ]
 }
