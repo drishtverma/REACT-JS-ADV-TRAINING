@@ -1,0 +1,25 @@
+{
+  "friend-list": [
+    {
+      "id": "60d0fe4f5311236168a109ce",
+      "title": "mr",
+      "firstName": "Rudi",
+      "lastName": "Droste",
+      "picture": "https://randomuser.me/api/portraits/med/men/83.jpg"
+    },
+    {
+      "id": "60d0fe4f5311236168a109d1",
+      "title": "mr",
+      "firstName": "Kent",
+      "lastName": "Brewer",
+      "picture": "https://randomuser.me/api/portraits/med/men/52.jpg"
+    },
+    {
+      "id": "60d0fe4f5311236168a109da",
+      "title": "mr",
+      "firstName": "Lance",
+      "lastName": "Foster",
+      "picture": "https://randomuser.me/api/portraits/med/men/13.jpg"
+    }
+  ]
+}
