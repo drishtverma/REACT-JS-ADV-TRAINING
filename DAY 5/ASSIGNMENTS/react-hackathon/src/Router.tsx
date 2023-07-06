@@ -11,7 +11,7 @@ const Router: React.FC = () => {
   return (
     <Routes>
       <Route path='/' element={<Login />} />
-      {localData && (
+      {localData.auth && (
         <>
           <Route path='/dashboard' element={<Home />} />
           <Route path='/profile-details/:id' element={<Profile />} />
