@@ -9,8 +9,6 @@ test('Adds a new article', () => {
 
   state = store.getState().articles;
   const newlyAddedArticle = state.find((art) => art.id === id);
-  console.log(newlyAddedArticle);
-
   expect(newlyAddedArticle?.body).toBe('Body');
   expect(newlyAddedArticle?.title).toBe('Title');
   expect(state.length).toBeGreaterThan(initialBookCount);
