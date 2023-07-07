@@ -1,0 +1,2 @@
+export const ADD_ARTICLE = "ADD ARTICLE"
+export const DELETE_ARTICLE ="DELETE ARTICLE"
